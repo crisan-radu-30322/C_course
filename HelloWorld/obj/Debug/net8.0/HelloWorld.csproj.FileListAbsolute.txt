@@ -1,0 +1,15 @@
+D:\GYAT\C_course\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\GYAT\C_course\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\GYAT\C_course\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\GYAT\C_course\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\GYAT\C_course\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\GYAT\C_course\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

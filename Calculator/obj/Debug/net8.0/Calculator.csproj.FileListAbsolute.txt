@@ -1,0 +1,15 @@
+D:\GYAT\C_course\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\GYAT\C_course\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\GYAT\C_course\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\GYAT\C_course\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\GYAT\C_course\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\GYAT\C_course\Calculator\obj\Debug\net8.0\ref\Calculator.dll
