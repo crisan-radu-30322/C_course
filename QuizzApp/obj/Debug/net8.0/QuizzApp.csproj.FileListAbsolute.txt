@@ -1,0 +1,15 @@
+D:\GYAT\C_course\QuizzApp\bin\Debug\net8.0\QuizzApp.exe
+D:\GYAT\C_course\QuizzApp\bin\Debug\net8.0\QuizzApp.deps.json
+D:\GYAT\C_course\QuizzApp\bin\Debug\net8.0\QuizzApp.runtimeconfig.json
+D:\GYAT\C_course\QuizzApp\bin\Debug\net8.0\QuizzApp.dll
+D:\GYAT\C_course\QuizzApp\bin\Debug\net8.0\QuizzApp.pdb
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.AssemblyInfoInputs.cache
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.AssemblyInfo.cs
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.csproj.CoreCompileInputs.cache
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.sourcelink.json
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.dll
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\refint\QuizzApp.dll
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.pdb
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\QuizzApp.genruntimeconfig.cache
+D:\GYAT\C_course\QuizzApp\obj\Debug\net8.0\ref\QuizzApp.dll
