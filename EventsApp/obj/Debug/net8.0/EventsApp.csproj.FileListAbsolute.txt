@@ -1,0 +1,15 @@
+D:\GYAT\C_course\EventsApp\bin\Debug\net8.0\EventsApp.exe
+D:\GYAT\C_course\EventsApp\bin\Debug\net8.0\EventsApp.deps.json
+D:\GYAT\C_course\EventsApp\bin\Debug\net8.0\EventsApp.runtimeconfig.json
+D:\GYAT\C_course\EventsApp\bin\Debug\net8.0\EventsApp.dll
+D:\GYAT\C_course\EventsApp\bin\Debug\net8.0\EventsApp.pdb
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.AssemblyInfoInputs.cache
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.AssemblyInfo.cs
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.csproj.CoreCompileInputs.cache
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.sourcelink.json
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.dll
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\refint\EventsApp.dll
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.pdb
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\EventsApp.genruntimeconfig.cache
+D:\GYAT\C_course\EventsApp\obj\Debug\net8.0\ref\EventsApp.dll
