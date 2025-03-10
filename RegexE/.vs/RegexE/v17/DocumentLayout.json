@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GYAT\\C_course\\RegexE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|d:\\gyat\\c_course\\regexe\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|d:\\gyat\\c_course\\regexe\\consoleapp1\\snippets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|solutionrelative:consoleapp1\\snippets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|D:\\GYAT\\C_course\\RegexE\\consoleapp1\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\Regexe.csproj|solutionrelative:consoleapp1\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\ConsoleApp1.csproj|D:\\GYAT\\C_course\\RegexE\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95B9178-70EB-4BBE-909D-51C6629A43A1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:49:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snippets.txt",
+              "DocumentMoniker": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Snippets.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Snippets.txt",
+              "ToolTip": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Snippets.txt",
+              "RelativeToolTip": "ConsoleApp1\\Snippets.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T15:04:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.txt",
+              "DocumentMoniker": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Sample.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sample.txt",
+              "ToolTip": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Sample.txt",
+              "RelativeToolTip": "ConsoleApp1\\Sample.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T15:00:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\GYAT\\C_course\\RegexE\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:58:17.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

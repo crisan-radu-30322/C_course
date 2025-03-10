@@ -1,0 +1,15 @@
+D:\GYAT\C_course\RegexE\ConsoleApp1\bin\Debug\net8.0\Regexe.exe
+D:\GYAT\C_course\RegexE\ConsoleApp1\bin\Debug\net8.0\Regexe.deps.json
+D:\GYAT\C_course\RegexE\ConsoleApp1\bin\Debug\net8.0\Regexe.runtimeconfig.json
+D:\GYAT\C_course\RegexE\ConsoleApp1\bin\Debug\net8.0\Regexe.dll
+D:\GYAT\C_course\RegexE\ConsoleApp1\bin\Debug\net8.0\Regexe.pdb
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.AssemblyInfoInputs.cache
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.AssemblyInfo.cs
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.csproj.CoreCompileInputs.cache
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.sourcelink.json
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.dll
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\refint\Regexe.dll
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.pdb
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\Regexe.genruntimeconfig.cache
+D:\GYAT\C_course\RegexE\ConsoleApp1\obj\Debug\net8.0\ref\Regexe.dll
